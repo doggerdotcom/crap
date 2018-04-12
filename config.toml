@@ -1,0 +1,5 @@
+baseURL = "https://doggerdotcom.github.io/dogger.com/"
+languageCode = "en-us"
+title = "Dogger Dot Com"
+style = "blue"
+email = "dogger@dogger.com"
